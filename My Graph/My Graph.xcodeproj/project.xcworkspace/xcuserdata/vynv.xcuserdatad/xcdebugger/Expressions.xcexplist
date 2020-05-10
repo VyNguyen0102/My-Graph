@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MYGraphView drawLeftRuler]:MYGraphView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.leftRuler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MYGraphView fillData]:MYGraphView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.graphValues">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
